@@ -1,3 +1,5 @@
 YOLO
 ultralytics
 opencv-python
+opencv-python-headless
+libgl1
