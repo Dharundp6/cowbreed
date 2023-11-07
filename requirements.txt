@@ -1,4 +1,2 @@
-cv2
-tempfile
+YOLO
 ultralytics
-PIL
