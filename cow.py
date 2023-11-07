@@ -30,7 +30,7 @@ if choice == "Upload image":
     
     if img_summit_button:
         
-        model = YOLO('/home/sudharsan/Documents/Projects/Tomato_disease_detector_project/best27.pt')   
+        model = YOLO('cow.py')   
     
         image = Image.open(image_data)
         image.save("input_data_image.png")
