@@ -30,7 +30,7 @@ if choice == "Upload image":
     
     if img_summit_button:
         
-        model = YOLO('cow.py')   
+        model = YOLO('best27.pt')   
     
         image = Image.open(image_data)
         image.save("input_data_image.png")
