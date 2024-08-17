@@ -1,5 +1,5 @@
 # cowbreed
-# Indian Bovine Breed Detection
+# Indian Bovine Breed Detectio
 
 This project aims to detect and classify 32 different breeds of Indian bovines (cattle and buffalo) using the YOLOv8 object detection model. The model is trained on a dataset of bovine images and deployed using Gradio for easy interaction and testing.
 
